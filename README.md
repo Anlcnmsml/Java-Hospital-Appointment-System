@@ -1,7 +1,9 @@
 🏥 Java-Hospital-Appointment-System
+
 A Java-based hospital management simulation that offers a flexible user experience with both Graphical User Interface (GUI) and Command Line Interface (CLI) support.
 
 🌟 Key Features
+
 Dual-Mode Operation: Choose between Console or GUI mode at startup.
 
 Comprehensive Management: Register and manage Patients, Doctors, Hospitals, and Departments.
@@ -13,6 +15,7 @@ Data Persistence: "Save Data" and "Load Data" features to store records locally 
 Modern GUI: A clean and intuitive interface built with the Java Swing library.
 
 📁 Project Structure
+
 The project follows a standard Java project architecture:
 
 src/: All source codes and logical layers.
@@ -21,9 +24,8 @@ bin/: Compiled .class files.
 
 test/: Unit tests for ensuring system reliability.
 
-.project & .classpath: IDE configuration files.
-
 🛠️ Built With
+
 Language: Java
 
 Framework: Java Swing (for GUI)
